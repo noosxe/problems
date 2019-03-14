@@ -7,3 +7,5 @@
 /bazel-*
 # Ignore outputs generated during Bazel bootstrapping.
 /output/
+.idea/
+.ijwb/
