@@ -37,7 +37,7 @@ class RomanToInteger {
         return acc;
     }
 
-    public static void main() {
+    public static void main(String[] args) {
         RomanToInteger romanToInteger = new RomanToInteger();
         System.out.println(romanToInteger.romanToInt("III"));
         System.out.println(romanToInteger.romanToInt("IV"));
