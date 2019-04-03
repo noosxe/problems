@@ -3,8 +3,8 @@
 ## C++
 
 - [Factorial](src/main/cpp/factorial)
--- [memoized](src/main/cpp/factorial/memoized)
--- [tabulated](src/main/cpp/factorial/tabulated)
+	- [memoized](src/main/cpp/factorial/memoized)
+	- [tabulated](src/main/cpp/factorial/tabulated)
 
 ## Java
 
