@@ -1,5 +1,8 @@
+package(default_visibility = ["//visibility:public"])
+
 java_binary(
-    name = "TwoSum",
+    name = "two_sum",
     jvm_flags = ["-ea"],
-    srcs = ["TwoSum.java"],
+    srcs = glob(["*.java"]),
+    main_class = "com.noosxe.problems.two_sum.TwoSum"
 )
