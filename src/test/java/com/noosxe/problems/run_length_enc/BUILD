@@ -10,7 +10,7 @@ java_library(
 java_test(
     name = "AllTests",
     size = "small",
-    test_class = "com.noosxe.problems.run_length_enc.RunLengthEnc",
+    test_class = "com.noosxe.problems.run_length_enc.RunLengthEncTest",
     runtime_deps = [
         ":run_length_enc",
     ],

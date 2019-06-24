@@ -1,6 +1,7 @@
 package com.noosxe.problems.run_length_enc;
 
 import org.junit.Before;
+import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
 
@@ -16,6 +17,12 @@ public class RunLengthEncTest {
         runLengthEnc = new RunLengthEnc();
     }
 
+    @Test
+    public void test0() {
+        assertEquals("", runLengthEnc.enc(""));
+    }
+
+    @Test
     public void test1() {
         assertEquals("4A3B2C1D2A", runLengthEnc.enc("AAAABBBCCDAA"));
     }
