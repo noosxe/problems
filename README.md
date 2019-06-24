@@ -1,5 +1,7 @@
 # Problems
 
+Just a collection of solutions for some common problems.
+
 ## C++
 
 - [Factorial](src/main/cpp/factorial)
@@ -12,3 +14,4 @@
 - [Roman to integer](src/main/java/com/noosxe/problems/roman_to_integer)
 - [Two sum](src/main/java/com/noosxe/problems/two_sum)
 - [Product except](src/main/java/com/noosxe/problems/product_except)
+- [Run length encoder](src/main/java/com/noosxe/problems/run_length_enc)
