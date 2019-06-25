@@ -15,3 +15,4 @@ Just a collection of solutions for some common problems.
 - [Two sum](src/main/java/com/noosxe/problems/two_sum)
 - [Product except](src/main/java/com/noosxe/problems/product_except)
 - [Run length encoder](src/main/java/com/noosxe/problems/run_length_enc)
+- [Run length decoder](src/main/java/com/noosxe/problems/run_length_dec)
